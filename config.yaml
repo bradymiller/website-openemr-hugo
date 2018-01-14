@@ -38,7 +38,7 @@ params:
   author:
     name: OpenEMR
     twitter: openemr
-  demoUrl: http://open-emr.org/wiki/index.php/OpenEMR_Demo
-  downloadUrl: http://open-emr.org/wiki/index.php/OpenEMR_Downloads
+  demoUrl: http://www.open-emr.org/wiki/index.php/OpenEMR_Demo
+  downloadUrl: http://www.open-emr.org/wiki/index.php/OpenEMR_Downloads
 permainks:
   post: /:filename/
