@@ -1,0 +1,12 @@
+{{ define "main"}}
+{{ if .Params.cover }}
+  <section class="welcome-billboard" style="background-image: url('{{ .Params.cover | absURL }}');"></section>
+{{ end}}
+<div class="container page">
+  <div class="row">
+    <div class="col-xs-12 col-md-8 offset-md-2">
+      <p>{{ .Content }}</p>
+    </div>
+  </div>
+</div>
+{{ end}}

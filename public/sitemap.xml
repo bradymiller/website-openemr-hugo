@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://www.open-emr.org/fb/landing-page-test/</loc>
+    <lastmod>2018-03-31T09:04:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.open-emr.org/lp/landing-page-test/</loc>
+    <lastmod>2018-03-31T09:04:50-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.open-emr.org/welcome/</loc>
     <lastmod>2018-03-31T08:38:14-07:00</lastmod>
   </url>
@@ -40,6 +50,16 @@
                 hreflang="en"
                 href="https://www.open-emr.org/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.open-emr.org/fb/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.open-emr.org/lp/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
